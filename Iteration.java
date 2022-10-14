@@ -8,9 +8,9 @@ public class Iteration {
         }*/
         int startPoint = 1;
 
-        while (startPoint <= 6) {
+       /*while (startPoint <= 6) {
             System.out.println("Hello");
-            startPoint =+ 1;
+            startPoint =+ 1; */ 
             
         }
     }
