@@ -17,5 +17,17 @@ public class Operators {
         }else{
             System.out.println("Failed");
         }
+
+        switch (examScore){
+            case 70:
+            System.out.println("case 70");
+            break;
+            case 60:
+            System.out.println("case 60");
+            break;
+            default:
+            System.out.println("All go chop breakfast");
+            break;
+        }
     }
 }
