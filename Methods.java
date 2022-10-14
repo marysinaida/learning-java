@@ -7,6 +7,6 @@ public class Methods {
     String myThirdMethod(){
         return "12";
     }
-    int addTwoNumbers
+
 
 }
