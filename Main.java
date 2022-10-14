@@ -11,7 +11,7 @@ public class Main{
 
        Test.displayResult();
     
-   System.out.println("Hello world! Java" + String.valueOf(intExamScore));
+   System.out.println("Hello world! Java " + String.valueOf(intExamScore));
     
 
     }
