@@ -16,4 +16,5 @@ public class Payments {
     private String currency;
 
 public Payments(String phoneNumber, String network ,double amount, String currency)
+
 }

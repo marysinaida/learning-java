@@ -12,6 +12,8 @@ abstract public class Shape {
 
     abstract double findArea(); 
 
+    abstract double calculateArea();
+
     void move(double nextLocation) {
         System.out.println("Moved from" + startPosition + nextLocation);
 
